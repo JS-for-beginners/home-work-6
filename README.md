@@ -39,7 +39,7 @@ speed";
 
 У файлі [task5.js](task5.js) опишіть інформацію, представлену на картинці у вигляді ієрархії масивів та об'єктів
 
-![image](https://github.com/JS-for-beginners/home-work-6/assets/67462207/aa590622-1d23-489e-bb56-dea14e88f3b1)
+![image](table.png)
 
 ## Task 6.
 
